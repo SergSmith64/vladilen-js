@@ -9,9 +9,9 @@ let fff = 89;
 // let fff = 8;
 fff = 8;
 
-const ggg = 666;
+const ggg = {};
 
-
+ggg.nu = 111;
 
 console.log("__ddd__= ", ddd);
 console.log("__fff__= ", fff);
